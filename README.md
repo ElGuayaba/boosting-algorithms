@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# ML Boosting Algorithms Exercise
